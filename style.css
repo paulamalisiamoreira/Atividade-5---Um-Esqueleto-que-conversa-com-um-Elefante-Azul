@@ -1,0 +1,43 @@
+#main{
+    background-color: #BC8F8F;
+    max-width:  25%;
+    max-height: 25%;
+    padding: 1%;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+
+#titulo{
+    background-color: blueviolet;
+    max-width:  25%;
+    max-height: 25%;
+    padding: 1%;
+}
+
+
+
+
+/* #form{
+    display: flex;
+
+}
+
+.form-content{
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.main #form .form-content{
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+    max-width: 50px;
+    max-height: 50px;
+} */
